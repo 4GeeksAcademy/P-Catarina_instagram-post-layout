@@ -1,0 +1,39 @@
+body {
+    background: black;
+}
+
+#post {
+    max-width: 550px;
+    background: white;
+    margin: auto;
+    display: flexbox;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    padding: 20px 15px;
+}
+
+.fa {
+    scale: 220%;
+    margin: 0px 14px;
+}
+
+#acc {
+    padding: 10px 5px;
+    float: left;
+}
+
+.user {
+    max-width: fit-content;
+    display: inline;
+}
+
+.right {
+    float: right;
+}
+
+img {
+    max-width: 100%;
+}
